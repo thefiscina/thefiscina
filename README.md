@@ -1,10 +1,13 @@
 <h1 align="center">Oi, eu sou Jonathas Fiscina</h1>
-<h3 align="center">Desenvolvedor Front-End e Jedi nas horas vagas.&nbsp; <img width="90" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3452ee32138533.56709117be2ab.gif"/></h3>
+<h3 align="center">Desenvolvedor Front-End e Jedi nas horas vagas.&nbsp;
+  <br/>
+  <br/>
+ <img width="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3452ee32138533.56709117be2ab.gif"/></h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefiscina&show_icons=true&locale=en&layout=compact" alt="thefiscina" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thefiscina&show_icons=true&locale=en" alt="thefiscina" /></p>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefiscina&show_icons=true&locale=en&layout=compact" alt="thefiscina" /></p>
+<br/>
+<p  align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thefiscina&show_icons=true&locale=en" alt="thefiscina" /></p>
 
 
 
