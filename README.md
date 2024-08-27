@@ -9,9 +9,9 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<p  align="center">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thefiscina&layout=compact&langs_count=8&card_width=320" />
-</a>
+</p>
 
 
 
