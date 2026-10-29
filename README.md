@@ -4,6 +4,22 @@
   <br/>
  <img width="150" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3452ee32138533.56709117be2ab.gif"/></h3>
 
+ <br/>
+
+<h3 align="left">🚀 Alguns projetos pessoais:</h3>
+
+<p align="left">
+  <a href="https://planning.crudsolutions.com.br/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Planning-Gerenciamento%20de%20Projetos-2563EB?style=for-the-badge&logo=trello&logoColor=white" alt="Planning" />
+  </a>
+  <a href="https://financas.crudsolutions.com.br/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Finanças-Controle%20Financeiro-16A34A?style=for-the-badge&logo=googlewallet&logoColor=white" alt="Finanças" />
+  </a>
+  <a href="https://gitopolis.crudsolutions.com.br/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Gitopolis-Projetos%20e%20Tecnologia-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Gitopolis" />
+  </a>
+</p>
+
 <br/>
 
 <h3 align="left">Linguagens e ferramentas que utilizo: </h3>
